@@ -1,0 +1,66 @@
+<?php
+
+# Reporting - a statistics plugin for MantisBT
+#
+# Copyright (c) Reporting.Org
+#
+# Reporting is available in two versions: LIGHT and PRO.
+#
+# Reporting LIGHT version is free for use (freeware software).
+# Reporting PRO version is available for fee.
+# Reporting LIGHT and PRO versions are NOT open-source software.
+#
+# A copy of License was delivered to you during the software download. See LICENSE file.
+#
+# Reporting is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See License for more
+# details.
+#
+# https://www.mantisstats.org
+
+
+$s_plugin_Reporting_title                 = 'Reporting';
+
+$s_plugin_Reporting_synthese_detail       = 'Synthèse Détaillée';
+$s_plugin_Reporting_test_mgo              = 'Test_MGO';
+$s_plugin_Reporting_result				  = 'Résultat de la recherche';
+$s_plugin_Reporting_id_fiche              = 'Id Fiche';
+$s_plugin_Reporting_Application           = 'Application';
+$s_plugin_Reporting_Titre                 = 'Titre';
+$s_plugin_Reporting_Demandeur             = 'Demandeur';
+$s_plugin_Reporting_Composant             = 'Composant';
+$s_plugin_Reporting_Charge_Estimée		  = 'Charge Estimée';
+$s_plugin_Reporting_date_reception		  = 'date reception';
+$s_plugin_Reporting_Validation_Charge	  = 'Validation Charge';
+
+$s_plugin_Reporting_dt_processing         = 'Traitement en cours...';
+$s_plugin_Reporting_dt_info               = 'Affichage de l\'&eacute;lement _START_ &agrave; _END_ sur _TOTAL_ &eacute;l&eacute;ments';
+$s_plugin_Reporting_dt_infoEmpty          = 'Affichage de l\'&eacute;lement 0 &agrave; 0 sur 0 &eacute;l&eacute;ments';
+$s_plugin_Reporting_dt_infoPostFix        = '';
+$s_plugin_Reporting_dt_loadingRecords     = 'Chargement en cours...';
+$s_plugin_Reporting_dt_zeroRecords        = 'Aucun &eacute;l&eacute;ment &agrave; afficher';
+$s_plugin_Reporting_dt_emptyTable         = 'Aucune donn&eacute;e disponible dans le tableau';
+$s_plugin_Reporting_dt_first              = 'Premier';
+$s_plugin_Reporting_dt_previous           = 'Pr&eacute;c&eacute;dent';
+$s_plugin_Reporting_dt_next               = 'Suivant';
+$s_plugin_Reporting_dt_last               = 'Dernier';
+$s_plugin_Reporting_dt_sortAscending      = ': activer pour trier la colonne par ordre croissant';
+$s_plugin_Reporting_dt_sortDescending     = ': activer pour trier la colonne par ordre d&eacute;croissant';
+
+$s_plugin_Reporting_timeframe             = 'Pour les bogues modifiés entre';
+$s_plugin_Reporting_display               = 'Afficher';
+$s_plugin_Reporting_project               = 'Projet';
+$s_plugin_Reporting_priv_proj_skip        = 'Les projets privés peuvent être ignorés dépendent du niveau de vos autorisations.';
+
+$s_plugin_Reporting_unknown               = 'Inconnu';
+$s_plugin_Reporting_daily                 = 'Quotidien';
+$s_plugin_Reporting_weekly                = 'Hebdomadaire';
+$s_plugin_Reporting_monthly               = 'Mensuel';
+$s_plugin_Reporting_yearly                = 'Annuel';
+
+$s_plugin_Reporting_start_date_option1    = 'Aujourd\'hui';
+$s_plugin_Reporting_start_date_option2    = 'Début de la semaine';
+$s_plugin_Reporting_start_date_option3    = 'Début du mois';
+$s_plugin_Reporting_start_date_option4    = 'Début d\'année';
+$s_plugin_Reporting_start_date_option5    = 'Début de l\'année de données MantisBT';
